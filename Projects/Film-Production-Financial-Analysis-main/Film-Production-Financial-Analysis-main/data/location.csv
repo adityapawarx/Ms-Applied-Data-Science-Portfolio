@@ -1,0 +1,1001 @@
+location_id,location_name,location_cost
+1,Moscow,41088
+2,São Paulo,36118
+3,Dubai,41906
+4,Melbourne,48087
+5,Marseille,38011
+6,Seoul,35749
+7,Queenstown,47269
+8,Florence,38060
+9,Lyon,44249
+10,Newcastle,47677
+11,Jakarta,47603
+12,Vienna,49007
+13,Manchester,38299
+14,Wellington,38921
+15,Mexico City,47154
+16,Florence,40924
+17,Dunedin,40691
+18,São Paulo,41437
+19,Rome,40071
+20,Vancouver,36494
+21,Zurich,35788
+22,Oslo,41480
+23,Marseille,44613
+24,Mexico City,45973
+25,Lisbon,45911
+26,Cairo,39400
+27,Helsinki,42778
+28,Christchurch,40593
+29,San Francisco,40006
+30,Helsinki,38244
+31,Naples,46785
+32,Beijing,48873
+33,Palermo,40731
+34,Stockholm,43274
+35,Prague,47214
+36,Naples,40421
+37,São Paulo,36891
+38,Shanghai,35886
+39,Moscow,42107
+40,Munich,46066
+41,Manchester,35258
+42,Lisbon,45475
+43,San Francisco,42411
+44,Zurich,36022
+45,Chicago,49689
+46,Rio de Janeiro,41254
+47,Paris,41097
+48,Christchurch,37544
+49,Sheffield,46797
+50,Melbourne,38904
+51,Reykjavik,39187
+52,Melbourne,40074
+53,Lisbon,40408
+54,Venice,43100
+55,Kuala Lumpur,41887
+56,Johannesburg,41412
+57,Lisbon,35411
+58,Vienna,46223
+59,Shanghai,37211
+60,Gold Coast,49136
+61,Istanbul,43224
+62,Brisbane,38668
+63,New York,37325
+64,Helsinki,43535
+65,Perth,49230
+66,Adelaide,47646
+67,Sheffield,35948
+68,Paris,48261
+69,Manila,46842
+70,Kuala Lumpur,41511
+71,Brisbane,37418
+72,Toronto,47600
+73,Mexico City,39192
+74,Bogota,37578
+75,Cape Town,41688
+76,Kuala Lumpur,36039
+77,Lisbon,41674
+78,Florence,41419
+79,Bristol,45889
+80,Edinburgh,49072
+81,Mumbai,47459
+82,Oslo,44097
+83,Barcelona,35022
+84,Havana,37900
+85,London,46660
+86,Madrid,49666
+87,Manila,45889
+88,Delhi,46056
+89,Munich,42710
+90,Berlin,43821
+91,Delhi,48559
+92,Berlin,43620
+93,Mexico City,39378
+94,Naples,40921
+95,Perth,36845
+96,Cardiff,36288
+97,Chicago,41856
+98,Turin,35802
+99,London,41981
+100,New York,40372
+101,Auckland,40772
+102,Edinburgh,40470
+103,Cairo,42883
+104,Prague,44019
+105,Istanbul,36434
+106,Vienna,47977
+107,Buenos Aires,49410
+108,Moscow,45039
+109,Budapest,48076
+110,Mumbai,39869
+111,Nairobi,47494
+112,Dubai,36627
+113,Naples,45102
+114,Genoa,48281
+115,Wellington,48100
+116,Vienna,43211
+117,Sheffield,40080
+118,Oslo,41687
+119,Sheffield,39288
+120,Leeds,40873
+121,Kuala Lumpur,41669
+122,Birmingham,40926
+123,Lyon,35395
+124,Wellington,38625
+125,London,48925
+126,Copenhagen,43580
+127,Manchester,40084
+128,Santiago,41975
+129,Paris,49059
+130,Budapest,46278
+131,Seoul,49614
+132,Barcelona,36560
+133,Venice,36735
+134,Budapest,44703
+135,Chicago,44816
+136,Manchester,39417
+137,Hamburg,36066
+138,Genoa,49945
+139,Seoul,44900
+140,Johannesburg,43945
+141,Lisbon,44761
+142,Hong Kong,36076
+143,Manila,39222
+144,Sydney,43299
+145,Munich,49807
+146,Gold Coast,36411
+147,Gold Coast,38084
+148,Florence,46537
+149,Delhi,39033
+150,Cairo,39443
+151,Oslo,43792
+152,Seoul,46850
+153,Cape Town,35409
+154,Gold Coast,36871
+155,Auckland,44575
+156,Glasgow,37415
+157,Glasgow,36280
+158,Lyon,35242
+159,Brisbane,43364
+160,Amsterdam,41650
+161,Dubai,40695
+162,Mexico City,42368
+163,Hamburg,42679
+164,Lisbon,49699
+165,Budapest,46612
+166,Sheffield,45419
+167,São Paulo,38024
+168,Lisbon,43293
+169,Madrid,42436
+170,Havana,43809
+171,Dubai,43862
+172,Bogota,41373
+173,Belfast,35925
+174,Stockholm,48944
+175,Nairobi,35310
+176,Madrid,49326
+177,Budapest,36446
+178,Cairo,42481
+179,Birmingham,49555
+180,Genoa,42296
+181,Brisbane,47707
+182,Warsaw,48506
+183,Hamburg,44203
+184,Amsterdam,39736
+185,Newcastle,45220
+186,Montreal,49231
+187,Nairobi,38111
+188,Reykjavik,48483
+189,Manchester,39166
+190,Palermo,36459
+191,Montreal,45674
+192,Nairobi,35111
+193,Rome,42293
+194,Queenstown,47317
+195,Toronto,45743
+196,Buenos Aires,46986
+197,Zurich,42531
+198,Hanoi,38225
+199,Leeds,44326
+200,Oslo,41013
+201,Bangkok,42316
+202,Athens,41713
+203,Dublin,41841
+204,Mexico City,46806
+205,Warsaw,37438
+206,Dubai,40001
+207,Los Angeles,39610
+208,Budapest,48854
+209,Los Angeles,47582
+210,Vienna,44285
+211,Prague,44264
+212,London,40672
+213,Glasgow,49744
+214,Dunedin,49774
+215,Munich,41497
+216,San Francisco,44759
+217,Marseille,41885
+218,Hamburg,40429
+219,Christchurch,41876
+220,Hamburg,43977
+221,Havana,40926
+222,Lisbon,47400
+223,Chicago,44636
+224,Beijing,47175
+225,Madrid,48825
+226,Perth,42304
+227,Santiago,38682
+228,Christchurch,35298
+229,Vancouver,49786
+230,Newcastle,41573
+231,Buenos Aires,35236
+232,Perth,45898
+233,Venice,45642
+234,Sydney,38887
+235,Delhi,43906
+236,London,36451
+237,Dunedin,43344
+238,Birmingham,39501
+239,Lisbon,42308
+240,Bogota,45679
+241,Hamburg,48840
+242,Beijing,43336
+243,Toronto,39938
+244,Buenos Aires,40698
+245,Athens,42061
+246,Newcastle,46381
+247,Mumbai,45504
+248,Vienna,44825
+249,Toronto,36481
+250,Sydney,37716
+251,Vienna,48829
+252,Kuala Lumpur,38049
+253,Glasgow,46240
+254,Birmingham,46679
+255,Genoa,38982
+256,Shanghai,49737
+257,Bogota,44777
+258,Lima,38185
+259,Leeds,41148
+260,Genoa,40619
+261,Auckland,49411
+262,Dunedin,49344
+263,Oslo,44314
+264,Bologna,39851
+265,Berlin,43710
+266,Budapest,41462
+267,Istanbul,48377
+268,San Francisco,48244
+269,Belfast,35945
+270,Naples,42842
+271,Liverpool,48541
+272,Zurich,42404
+273,Florence,43604
+274,Tokyo,44679
+275,Wellington,46387
+276,Auckland,37488
+277,Seoul,40646
+278,Palermo,38848
+279,Budapest,39878
+280,Madrid,35553
+281,Oslo,36887
+282,Beijing,35694
+283,Singapore,44372
+284,Sheffield,49223
+285,Hamburg,37469
+286,Hamilton,49794
+287,Liverpool,48878
+288,Johannesburg,42697
+289,Amsterdam,48670
+290,Cape Town,43352
+291,Edinburgh,39803
+292,Vienna,36145
+293,Wellington,44866
+294,Santiago,36957
+295,Genoa,37093
+296,Turin,46925
+297,Glasgow,41681
+298,Zurich,46954
+299,Chicago,40674
+300,Barcelona,43708
+301,Havana,42864
+302,Cape Town,37754
+303,Wellington,41826
+304,Mumbai,38341
+305,Cairo,39943
+306,Prague,40260
+307,Vancouver,47922
+308,Stockholm,45204
+309,Wellington,44046
+310,Amsterdam,44993
+311,Moscow,45376
+312,Dublin,48359
+313,Delhi,36638
+314,Bristol,39281
+315,Lima,35996
+316,Perth,41595
+317,Mumbai,43236
+318,Glasgow,43840
+319,Vancouver,48376
+320,Seoul,41593
+321,Lisbon,38133
+322,Prague,44648
+323,Hong Kong,49613
+324,New York,40955
+325,Belfast,37594
+326,Liverpool,37535
+327,Nairobi,46992
+328,Prague,49245
+329,Seoul,36272
+330,Reykjavik,42073
+331,Dunedin,44667
+332,Reykjavik,38934
+333,Madrid,38485
+334,Montreal,43757
+335,Genoa,38433
+336,Manchester,47277
+337,Toronto,45477
+338,Vienna,37072
+339,Lisbon,39570
+340,Birmingham,42550
+341,Mumbai,38414
+342,Zurich,49875
+343,Auckland,37621
+344,New York,35569
+345,Mexico City,44067
+346,Barcelona,35416
+347,Dubai,47673
+348,Hong Kong,48706
+349,Newcastle,49057
+350,Budapest,44282
+351,Amsterdam,45800
+352,Turin,40757
+353,London,46316
+354,Kuala Lumpur,48484
+355,Manchester,39517
+356,Amsterdam,49643
+357,São Paulo,44175
+358,Istanbul,44226
+359,Reykjavik,46852
+360,Florence,44502
+361,Birmingham,42700
+362,Chicago,36172
+363,Edinburgh,42865
+364,Paris,37839
+365,Montreal,46481
+366,Stockholm,46088
+367,Bologna,39314
+368,Gold Coast,42333
+369,Gold Coast,39814
+370,Havana,37210
+371,Venice,37835
+372,Lisbon,37981
+373,Dunedin,35911
+374,Delhi,45271
+375,Adelaide,45516
+376,Lyon,47378
+377,Mumbai,48294
+378,Naples,45317
+379,Bologna,48607
+380,Mumbai,35716
+381,Hong Kong,44213
+382,Madrid,36962
+383,Naples,46636
+384,Perth,48017
+385,Buenos Aires,40329
+386,Naples,41962
+387,Bristol,43651
+388,Reykjavik,40783
+389,Gold Coast,35168
+390,Beijing,40472
+391,Liverpool,42377
+392,Melbourne,39489
+393,San Francisco,49574
+394,Athens,35380
+395,Istanbul,35320
+396,Auckland,43679
+397,Bristol,35589
+398,Mexico City,49888
+399,Santiago,35596
+400,Montreal,46848
+401,Jakarta,36113
+402,Madrid,42801
+403,Delhi,37982
+404,Delhi,43945
+405,Bangkok,47834
+406,Montreal,42245
+407,Johannesburg,46358
+408,Genoa,37208
+409,Palermo,37928
+410,Dunedin,47203
+411,Rome,38641
+412,Istanbul,40476
+413,Havana,47836
+414,New York,36541
+415,Belfast,40373
+416,Edinburgh,37896
+417,Hong Kong,39890
+418,Delhi,42809
+419,Budapest,36509
+420,Beijing,45173
+421,Lisbon,45124
+422,Kuala Lumpur,39753
+423,Dubai,38930
+424,Santiago,45237
+425,Auckland,43021
+426,Buenos Aires,49333
+427,Prague,40217
+428,Prague,45891
+429,New York,38779
+430,Gold Coast,39853
+431,Hamilton,37444
+432,Munich,40057
+433,Belfast,42359
+434,Glasgow,41630
+435,Lyon,35387
+436,Reykjavik,48658
+437,Mumbai,41829
+438,Wellington,48720
+439,Amsterdam,37115
+440,Sydney,45372
+441,Hanoi,38415
+442,Belfast,39330
+443,Manchester,42898
+444,Prague,40984
+445,Sydney,48570
+446,Moscow,42926
+447,Mexico City,45791
+448,Brisbane,39513
+449,Sheffield,39113
+450,Gold Coast,44801
+451,Beijing,39758
+452,Hanoi,48743
+453,Bristol,39977
+454,Barcelona,43205
+455,Sydney,41928
+456,Buenos Aires,45495
+457,Gold Coast,45045
+458,Brisbane,46472
+459,Dublin,49307
+460,Mexico City,46726
+461,Glasgow,45823
+462,Hanoi,41873
+463,Auckland,38815
+464,Johannesburg,36536
+465,Genoa,38619
+466,Sydney,37001
+467,Liverpool,45206
+468,Naples,38564
+469,Montreal,49415
+470,Mexico City,48033
+471,Cardiff,39122
+472,Bogota,38075
+473,Jakarta,41386
+474,Zurich,45296
+475,Adelaide,41575
+476,Los Angeles,48148
+477,Dunedin,49609
+478,Sydney,43374
+479,Venice,47949
+480,Rome,42714
+481,Lima,47518
+482,Montreal,41854
+483,Buenos Aires,49699
+484,Hamilton,41409
+485,Kuala Lumpur,42141
+486,Buenos Aires,47142
+487,Christchurch,47146
+488,Los Angeles,46718
+489,Birmingham,44451
+490,Vienna,41245
+491,Warsaw,44868
+492,Bangkok,43919
+493,Prague,39985
+494,Newcastle,41767
+495,Munich,40908
+496,Jakarta,48668
+497,Glasgow,38367
+498,Beijing,41095
+499,Dublin,38681
+500,Mexico City,38410
+501,Hamburg,38018
+502,Dublin,37625
+503,Brussels,39286
+504,Cape Town,37321
+505,Sydney,43638
+506,Madrid,37790
+507,Kuala Lumpur,40537
+508,Cardiff,41216
+509,Nairobi,41296
+510,Leeds,37829
+511,Warsaw,43708
+512,Tokyo,40363
+513,Bogota,47278
+514,Mexico City,36550
+515,Beijing,49496
+516,Santiago,49855
+517,Cairo,46785
+518,Queenstown,37675
+519,Barcelona,36195
+520,Bristol,38224
+521,Wellington,46877
+522,Bangkok,43514
+523,Venice,47177
+524,Manchester,39608
+525,Athens,38256
+526,Moscow,48309
+527,Cairo,48252
+528,Sheffield,43072
+529,Leeds,45232
+530,Shanghai,35734
+531,Leeds,36226
+532,Lisbon,46157
+533,Athens,49373
+534,Christchurch,43382
+535,Gold Coast,37724
+536,Auckland,48586
+537,Lima,45945
+538,Madrid,39834
+539,Palermo,46652
+540,Reykjavik,48583
+541,Santiago,41103
+542,Dubai,42791
+543,Adelaide,36663
+544,Jakarta,38608
+545,Warsaw,43743
+546,Sydney,44619
+547,Lima,40883
+548,Zurich,40247
+549,Singapore,42544
+550,Beijing,42300
+551,Marseille,46918
+552,Glasgow,40478
+553,Stockholm,42287
+554,Warsaw,37391
+555,Zurich,35500
+556,Edinburgh,46664
+557,Budapest,35324
+558,Hamilton,47187
+559,Havana,35859
+560,Rio de Janeiro,38272
+561,Amsterdam,36714
+562,Madrid,43174
+563,Buenos Aires,44553
+564,Helsinki,38174
+565,Stockholm,36718
+566,Belfast,47087
+567,Santiago,45189
+568,Manchester,49513
+569,Gold Coast,48334
+570,Johannesburg,47362
+571,Leeds,46841
+572,Manchester,43324
+573,Hong Kong,39448
+574,Manila,40894
+575,Birmingham,36274
+576,Cairo,49897
+577,Cape Town,36069
+578,Rio de Janeiro,49702
+579,Hanoi,41709
+580,Reykjavik,48387
+581,Wellington,45376
+582,Tokyo,43588
+583,Kuala Lumpur,45486
+584,Beijing,47044
+585,São Paulo,42908
+586,Adelaide,43252
+587,Palermo,45693
+588,Reykjavik,46550
+589,Edinburgh,47796
+590,Shanghai,35366
+591,Rio de Janeiro,37827
+592,Seoul,42522
+593,Bristol,38249
+594,Madrid,37176
+595,Rio de Janeiro,48191
+596,Dublin,38632
+597,Dublin,37254
+598,Vienna,40949
+599,Bristol,35302
+600,Amsterdam,38925
+601,Hamilton,47222
+602,Florence,48741
+603,Palermo,37095
+604,Sydney,47571
+605,Jakarta,45406
+606,Reykjavik,36599
+607,Naples,48813
+608,Lima,40170
+609,Palermo,40492
+610,Naples,40514
+611,Munich,41334
+612,Nairobi,46986
+613,London,46608
+614,Liverpool,38925
+615,Venice,37471
+616,Nairobi,46891
+617,Genoa,41126
+618,Tokyo,43968
+619,Oslo,44660
+620,Bologna,47458
+621,Hanoi,45593
+622,Santiago,49772
+623,New York,45205
+624,New York,44084
+625,Warsaw,46711
+626,Glasgow,37484
+627,Chicago,35800
+628,Kuala Lumpur,41747
+629,Bologna,38071
+630,Manila,43214
+631,Paris,47562
+632,Melbourne,36983
+633,Barcelona,36073
+634,Bologna,45342
+635,Los Angeles,42262
+636,Nairobi,43919
+637,Zurich,48324
+638,Toronto,46943
+639,Palermo,46780
+640,Istanbul,41984
+641,Reykjavik,44660
+642,Madrid,45686
+643,Hamilton,35985
+644,Tokyo,36961
+645,Christchurch,44912
+646,Budapest,47086
+647,Brussels,38808
+648,Mexico City,39785
+649,Dunedin,48657
+650,Bogota,44520
+651,Sheffield,43186
+652,Shanghai,38419
+653,Bristol,42655
+654,Turin,46732
+655,Madrid,35496
+656,Birmingham,48378
+657,Rome,39335
+658,Gold Coast,45260
+659,Copenhagen,40105
+660,Seoul,42821
+661,São Paulo,39492
+662,Dublin,38990
+663,Johannesburg,45243
+664,Venice,49596
+665,Bangkok,42595
+666,Buenos Aires,47659
+667,Seoul,47061
+668,Palermo,46513
+669,Edinburgh,45188
+670,Santiago,41173
+671,Reykjavik,45954
+672,Barcelona,43250
+673,Moscow,48614
+674,Turin,48380
+675,Stockholm,46686
+676,Hanoi,38966
+677,Paris,38532
+678,Munich,35394
+679,Bristol,47238
+680,Hong Kong,38411
+681,Wellington,39447
+682,Budapest,35330
+683,Birmingham,42188
+684,Christchurch,48565
+685,Manchester,35194
+686,Liverpool,38179
+687,Toronto,48031
+688,Venice,46679
+689,Adelaide,38140
+690,Paris,38501
+691,Lyon,35292
+692,Amsterdam,44119
+693,Mexico City,40716
+694,Wellington,42556
+695,Johannesburg,36988
+696,Sydney,47059
+697,Beijing,36374
+698,Bogota,42304
+699,Cairo,35177
+700,Chicago,39083
+701,Birmingham,47733
+702,Cardiff,49021
+703,São Paulo,43380
+704,Gold Coast,46653
+705,Belfast,38049
+706,Rio de Janeiro,40143
+707,Bangkok,41864
+708,Paris,48230
+709,Los Angeles,44382
+710,Hong Kong,42371
+711,Lima,46092
+712,Brussels,44617
+713,Barcelona,37434
+714,Havana,46019
+715,Rio de Janeiro,38490
+716,Turin,39634
+717,Leeds,41670
+718,Buenos Aires,36352
+719,Beijing,46729
+720,Palermo,39849
+721,London,42720
+722,Stockholm,46990
+723,Stockholm,49449
+724,Hanoi,43998
+725,Leeds,40431
+726,Marseille,35549
+727,Los Angeles,38941
+728,Leeds,43802
+729,Palermo,46115
+730,Havana,35267
+731,Beijing,44857
+732,Manchester,44518
+733,Istanbul,49941
+734,Chicago,40469
+735,Warsaw,48405
+736,Barcelona,47117
+737,Warsaw,45829
+738,Stockholm,35154
+739,London,41552
+740,Hamilton,46289
+741,Beijing,35588
+742,Genoa,35959
+743,Belfast,45704
+744,Lisbon,39789
+745,Cape Town,42513
+746,Cardiff,47740
+747,Johannesburg,40581
+748,Seoul,37267
+749,Johannesburg,45429
+750,Auckland,39135
+751,Bangkok,41084
+752,Rome,49417
+753,Delhi,40532
+754,Prague,40246
+755,Warsaw,45477
+756,Wellington,38698
+757,Sydney,41455
+758,Stockholm,49344
+759,London,47416
+760,Birmingham,49681
+761,Manila,38864
+762,Hamilton,47267
+763,Havana,44591
+764,Newcastle,45045
+765,Gold Coast,43185
+766,Copenhagen,47323
+767,Cairo,44106
+768,Genoa,35947
+769,Naples,35966
+770,Moscow,38403
+771,Warsaw,48230
+772,Oslo,42567
+773,Hamburg,48242
+774,Bristol,36352
+775,Seoul,42876
+776,Turin,49412
+777,Hamilton,43666
+778,Wellington,38228
+779,Dublin,42136
+780,Cardiff,43633
+781,Florence,42261
+782,Toronto,40186
+783,Vancouver,38516
+784,Dunedin,42641
+785,Naples,39923
+786,Copenhagen,41654
+787,Brisbane,38044
+788,Cardiff,49753
+789,Dunedin,38639
+790,Perth,36966
+791,Berlin,47313
+792,Vienna,35388
+793,Lima,40895
+794,Santiago,38395
+795,London,44969
+796,Rio de Janeiro,41715
+797,Bangkok,40136
+798,Turin,44836
+799,Amsterdam,45131
+800,Rome,39159
+801,Wellington,38356
+802,Marseille,35968
+803,Glasgow,38647
+804,Copenhagen,40097
+805,Jakarta,48627
+806,Melbourne,39978
+807,Sheffield,37457
+808,Zurich,48048
+809,Cairo,46741
+810,Naples,49005
+811,Sheffield,41508
+812,Barcelona,41832
+813,Buenos Aires,42232
+814,Tokyo,35864
+815,Leeds,40346
+816,Athens,44053
+817,Johannesburg,43251
+818,Manila,40000
+819,Singapore,46140
+820,Toronto,41624
+821,Manchester,42436
+822,Paris,44884
+823,Tokyo,46991
+824,Rio de Janeiro,41696
+825,Perth,35967
+826,Christchurch,44265
+827,Genoa,40206
+828,Mumbai,40464
+829,Naples,36508
+830,Bristol,46972
+831,Dubai,47718
+832,Dubai,40012
+833,Lyon,36022
+834,Hamilton,46362
+835,Amsterdam,45786
+836,Toronto,35206
+837,Stockholm,43221
+838,San Francisco,38564
+839,Johannesburg,48206
+840,Rome,35553
+841,Liverpool,46164
+842,Perth,49019
+843,San Francisco,47930
+844,Havana,44799
+845,Manila,44031
+846,Dunedin,37289
+847,Glasgow,48538
+848,Istanbul,47019
+849,Hanoi,42393
+850,Los Angeles,47485
+851,Queenstown,37665
+852,Montreal,36319
+853,Sydney,44121
+854,Glasgow,45220
+855,Tokyo,43709
+856,Vienna,41298
+857,Perth,46686
+858,Buenos Aires,37232
+859,Barcelona,49328
+860,New York,49368
+861,Toronto,41259
+862,Cardiff,46785
+863,Newcastle,39427
+864,Santiago,36878
+865,Manchester,40529
+866,Newcastle,37549
+867,Belfast,36961
+868,Montreal,40761
+869,Melbourne,44995
+870,Tokyo,44490
+871,Hong Kong,49105
+872,Bangkok,44087
+873,Melbourne,43307
+874,Rio de Janeiro,37197
+875,Dubai,44222
+876,Tokyo,48432
+877,Wellington,36291
+878,Vienna,49025
+879,Buenos Aires,44630
+880,Auckland,45712
+881,Kuala Lumpur,46344
+882,Mexico City,49735
+883,Bristol,40170
+884,Palermo,42845
+885,Cardiff,44525
+886,Havana,39286
+887,Lisbon,36337
+888,Hong Kong,49772
+889,Vancouver,40160
+890,Rio de Janeiro,38902
+891,Nairobi,42309
+892,Hamilton,44307
+893,Tokyo,44675
+894,Lima,36383
+895,Gold Coast,44009
+896,Naples,49564
+897,Cardiff,37952
+898,Prague,47339
+899,Belfast,35293
+900,Hanoi,47535
+901,Warsaw,47427
+902,Helsinki,42170
+903,Santiago,46533
+904,Oslo,46203
+905,London,47228
+906,Hong Kong,48045
+907,Copenhagen,45161
+908,Queenstown,36811
+909,San Francisco,41416
+910,Singapore,46258
+911,Newcastle,37868
+912,Warsaw,37646
+913,Berlin,44356
+914,Toronto,46421
+915,Warsaw,41912
+916,Delhi,45885
+917,Sheffield,48792
+918,Lisbon,35980
+919,Seoul,38015
+920,Bologna,36498
+921,Zurich,43819
+922,Wellington,43120
+923,Singapore,41260
+924,Edinburgh,46292
+925,Stockholm,40291
+926,Rome,48556
+927,Melbourne,45758
+928,Warsaw,36793
+929,Havana,45297
+930,Vienna,43781
+931,Warsaw,42191
+932,Jakarta,43909
+933,Manila,36455
+934,Bogota,44536
+935,Dunedin,46947
+936,Cape Town,46089
+937,Bangkok,48918
+938,Vancouver,37684
+939,Tokyo,44324
+940,Palermo,47172
+941,Paris,48064
+942,Nairobi,40883
+943,Gold Coast,43911
+944,London,45634
+945,Dunedin,47217
+946,Warsaw,43200
+947,Vancouver,48582
+948,Naples,47559
+949,Zurich,40179
+950,Hanoi,37053
+951,Bologna,48275
+952,Birmingham,46536
+953,Perth,35706
+954,Queenstown,39088
+955,Budapest,41785
+956,Moscow,36803
+957,Genoa,46846
+958,Vienna,40479
+959,Wellington,38477
+960,Chicago,45959
+961,Copenhagen,40464
+962,Los Angeles,47253
+963,Manila,46546
+964,Barcelona,47993
+965,Christchurch,37501
+966,Chicago,45975
+967,Birmingham,48046
+968,Delhi,39476
+969,Rome,46329
+970,Adelaide,37475
+971,Cape Town,41425
+972,Athens,41932
+973,Athens,41744
+974,Athens,44061
+975,Jakarta,41457
+976,Newcastle,46676
+977,Singapore,39402
+978,Helsinki,35539
+979,London,41779
+980,Athens,37611
+981,Perth,47180
+982,Queenstown,46330
+983,Lisbon,48248
+984,Wellington,44707
+985,Hong Kong,40824
+986,Genoa,47063
+987,Lyon,36760
+988,Rome,41486
+989,Liverpool,48925
+990,Genoa,37988
+991,Auckland,44392
+992,Palermo,44031
+993,Mumbai,44411
+994,Buenos Aires,49036
+995,Birmingham,41329
+996,Bologna,40152
+997,Vienna,40487
+998,Buenos Aires,45051
+999,Berlin,48448
+1000,Amsterdam,39718

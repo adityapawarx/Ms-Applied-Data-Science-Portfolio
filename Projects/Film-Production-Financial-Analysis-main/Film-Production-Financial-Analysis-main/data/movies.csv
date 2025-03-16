@@ -1,0 +1,1001 @@
+﻿movie_id,movie_name,movie_genre,movie_budget,movie_producer_id,movie_director_id,movie_location_id
+1,Pirates of the Caribbean: Dead Man's Chest,Action,1236185,328,655,82
+2,Night at the Museum,Adventure,1141517,58,115,15
+3,Cars,Animation,783905,13,26,4
+4,X-Men: The Last Stand,Action,1096330,380,760,36
+5,The Da Vinci Code,Mystery,1192834,141,282,32
+6,Superman Returns,Action,1135960,126,251,29
+7,Happy Feet,Animation,989980,115,229,18
+8,Ice Age: The Meltdown,Action,976680,72,143,14
+9,Casino Royale,Action,1206819,378,755,87
+10,The Pursuit of Happyness,Biography,1197919,53,105,70
+11,Over the Hedge,Adventure,1023625,347,693,12
+12,Talladega Nights: The Ballad of Ricky Bobby,Action,1105555,380,759,76
+13,Click,Comedy,965500,457,914,55
+14,Mission: Impossible III,Action,825908,280,559,5
+15,The Departed,Crime,878497,45,90,4
+16,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Comedy,1227665,303,605,12
+17,The Devil Wears Prada,Comedy,1029666,217,433,28
+18,The Break-Up,Comedy,872999,17,33,30
+19,Dreamgirls,Drama,1058820,16,31,65
+20,Scary Movie 4,Comedy,673859,48,96,78
+21,Failure to Launch,Comedy,961724,112,224,4
+22,Inside Man,Crime,1124043,120,239,72
+23,Open Season,Adventure,1027841,259,518,26
+24,The Santa Clause 3: The Escape Clause,Adventure,1032924,309,617,84
+25,Charlotte's Web,Comedy,787585,14,28,90
+26,The Pink Panther,Adventure,1147481,288,575,70
+27,Eight Below,Adventure,666909,102,204,54
+28,Saw III,Horror,760470,367,734,29
+29,Nacho Libre,Comedy,1154782,333,666,58
+30,"You, Me and Dupree",Comedy,1246941,360,719,76
+31,Eragon,Action,976213,280,559,36
+32,Monster House,Adventure,733331,215,430,1
+33,Barnyard,Animation,1089786,113,226,21
+34,Jackass Number Two,Action,732647,230,460,90
+35,RV,Adventure,1179591,302,604,55
+36,World Trade Center,Drama,1107215,143,285,44
+37,Rocky Balboa,Drama,644185,415,829,36
+38,Big Momma's House 2,Comedy,779249,446,891,20
+39,Step Up,Crime,1057985,4,7,28
+40,Flushed Away,Adventure,789951,389,778,44
+41,Deja Vu,Action,706555,413,826,14
+42,Miami Vice,Action,1120388,82,164,12
+43,The Holiday,Comedy,905988,358,715,49
+44,Madea's Family Reunion,Comedy,983099,217,433,13
+45,The Fast and the Furious: Tokyo Drift,Action,1044883,175,349,46
+46,Underworld: Evolution,Action,712308,143,285,45
+47,The Shaggy Dog,Comedy,972617,80,160,78
+48,Poseidon,Action,1187635,111,221,34
+49,The Good Shepherd,Drama,1026560,491,782,6
+50,Little Miss Sunshine,Comedy,960135,391,345,59
+51,The Benchwarmers,Action,1139742,173,105,69
+52,Curious George,Adventure,1195388,53,95,16
+53,Little Man,Drama,665734,48,390,49
+54,Invincible,Biography,1275545,195,100,11
+55,Blood Diamond,Adventure,699836,50,368,71
+56,The Queen,Biography,874266,184,868,38
+57,The Guardian,Action,929430,434,353,81
+58,The Omen,Horror,866628,177,619,80
+59,Final Destination 3,Horror,722861,310,271,47
+60,The Prestige,Drama,1083144,136,827,74
+61,The Lake House,Drama,731317,414,45,25
+62,Apocalypto,Action,733481,23,748,9
+63,Firewall,Crime,1093322,374,471,6
+64,Date Movie,Comedy,802538,236,550,85
+65,When a Stranger Calls,Horror,942104,275,128,30
+66,Silent Hill,Adventure,658445,64,388,38
+67,Deep Sea,Documentary,676317,473,81,11
+68,We Are Marshall,Drama,968223,194,566,30
+69,Glory Road,Biography,686937,41,301,13
+70,Lady in the Water,Drama,935710,283,850,49
+71,The Hills Have Eyes,Horror,1003968,151,644,36
+72,John Tucker Must Die,Comedy,1021141,425,634,59
+73,Stranger Than Fiction,Comedy,1079699,322,907,82
+74,The Illusionist,Drama,780732,317,883,47
+75,The Texas Chainsaw Massacre: The Beginning,Horror,884151,454,371,21
+76,The Grudge 2,Horror,1185060,442,592,48
+77,Gridiron Gang,Crime,1060159,186,197,46
+78,Last Holiday,Comedy,1221510,296,722,27
+79,El laberinto del fauno,Drama,816895,99,72,86
+80,The Nativity Story,Drama,806332,361,47,35
+81,Man of the Year,Comedy,811665,36,678,90
+82,The Wild,Adventure,710896,24,234,88
+83,16 Blocks,Action,1267190,339,792,83
+84,Accepted,Comedy,1029218,117,297,10
+85,The Sentinel,Action,1277905,396,82,78
+86,Children of Men,Drama,880620,149,876,82
+87,Deck the Halls,Comedy,1149933,41,239,22
+88,Take the Lead,Drama,1239576,438,888,69
+89,Babel,Drama,778161,120,104,32
+90,Snakes on a Plane,Action,871559,444,390,21
+91,She's the Man,Comedy,1111642,52,285,60
+92,Flags of Our Fathers,Drama,894406,195,465,49
+93,United 93,Drama,1109986,143,651,35
+94,Employee of the Month,Comedy,895821,233,855,82
+95,Garfield: A Tail of Two Kitties,Animation,637945,326,374,89
+96,The Ant Bully,Adventure,1115945,428,167,72
+97,Spider-Man 3,Action,929695,187,380,29
+98,Shrek the Third,Adventure,1201241,84,364,88
+99,Transformers,Action,793741,190,215,42
+100,Pirates of the Caribbean: At World's End,Action,705541,182,687,8
+101,Harry Potter and the Order of the Phoenix,Adventure,1091279,108,274,30
+102,I Am Legend,Drama,990443,344,719,5
+103,The Bourne Ultimatum,Action,1244205,137,700,41
+104,National Treasure: Book of Secrets,Action,941777,360,664,52
+105,Alvin and the Chipmunks,Animation,1073012,480,74,35
+106,300,Action,890338,350,624,9
+107,Ratatouille,Animation,1107119,332,651,28
+108,The Simpsons Movie,Adventure,944889,37,176,73
+109,Wild Hogs,Action,836986,312,547,41
+110,Knocked Up,Comedy,1031472,326,747,28
+111,Juno,Comedy,1134772,88,251,84
+112,Rush Hour 3,Action,739926,274,168,64
+113,Live Free or Die Hard,Action,876820,374,474,51
+114,4: Rise of the Silver Surfer,Action,1027981,126,389,83
+115,American Gangster,Biography,1227796,84,277,59
+116,Enchanted,Animation,1004487,237,656,19
+117,Bee Movie,Adventure,1230825,195,705,34
+118,Superbad,Comedy,938336,139,571,18
+119,I Now Pronounce You Chuck & Larry,Comedy,937663,474,225,32
+120,Hairspray,Comedy,651097,328,702,72
+121,Blades of Glory,Comedy,1043124,353,333,69
+122,Ocean's Thirteen,Crime,915905,286,864,34
+123,Ghost Rider,Action,636583,113,787,75
+124,Evan Almighty,Comedy,1221511,351,795,55
+125,Meet the Robinsons,Adventure,679518,167,58,75
+126,Norbit,Comedy,1263955,432,235,52
+127,The Bucket List,Adventure,1148948,394,842,47
+128,The Game Plan,Comedy,928188,398,33,29
+129,Bridge to Terabithia,Adventure,869388,29,825,18
+130,Beowulf,Action,1264645,118,324,66
+131,Disturbia,Drama,997527,421,411,64
+132,No Country for Old Men,Crime,857734,17,275,12
+133,Fred Claus,Comedy,827459,413,68,7
+134,1408,Horror,1279143,162,217,15
+135,The Golden Compass,Adventure,890893,206,581,20
+136,Charlie Wilson's War,Biography,771515,138,898,81
+137,Saw IV,Horror,729975,34,736,21
+138,Stomp the Yard,Drama,669429,109,323,88
+139,Surf's Up,Animation,952031,468,218,55
+140,Halloween,Horror,1090328,483,672,77
+141,Why Did I Get Married?,Comedy,663077,291,512,9
+142,TMNT,Action,1235819,449,406,50
+143,P.S. I Love You,Drama,1010676,368,906,49
+144,3:10 to Yuma,Adventure,765887,162,659,77
+145,Sweeney Todd: The Demon Barber of Fleet Street,Drama,722603,109,470,60
+146,Atonement,Drama,937537,336,147,68
+147,Resident Evil: Extinction,Action,970681,256,272,33
+148,Music and Lyrics,Comedy,1063778,203,143,71
+149,Are We Done Yet?,Comedy,812263,453,253,2
+150,This Christmas,Comedy,838640,469,763,88
+151,Michael Clayton,Crime,766671,330,575,15
+152,Premonition,Drama,1193702,235,552,88
+153,Dan in Real Life,Comedy,1011721,74,270,69
+154,The Kingdom,Action,1184731,136,765,35
+155,Shooter,Action,1154261,72,599,83
+156,License to Wed,Comedy,913857,127,439,44
+157,Underdog,Action,800629,382,598,15
+158,No Reservations,Comedy,897544,288,409,38
+159,Because I Said So,Comedy,1133346,276,371,56
+160,AVPR: Aliens vs Predator - Requiem,Action,937570,135,225,21
+161,The Water Horse,Adventure,983260,383,142,59
+162,There Will Be Blood,Drama,748856,300,522,1
+163,Epic Movie,Adventure,1119173,220,506,34
+164,Hitman,Action,707049,460,94,65
+165,30 Days of Night,Horror,775686,299,774,23
+166,Fracture,Crime,864666,205,49,65
+167,Stardust,Adventure,1044808,186,882,14
+168,The Brave One,Crime,1212476,113,113,81
+169,The Heartbreak Kid,Comedy,1011634,71,157,39
+170,Freedom Writers,Biography,722781,261,643,82
+171,Smokin' Aces,Action,1041833,253,164,65
+172,The Messengers,Horror,642686,47,812,78
+173,The Number 23,Mystery,905396,387,697,26
+174,Good Luck Chuck,Comedy,1190728,25,433,20
+175,Mr. Bean's Holiday,Comedy,757684,441,611,48
+176,Zodiac,Crime,1104969,57,66,21
+177,Breach,Biography,1014582,79,395,70
+178,Balls of Fury,Comedy,902988,322,391,68
+179,Mr. Magorium's Wonder Emporium,Comedy,1241047,82,611,1
+180,August Rush,Drama,1027626,406,480,77
+181,Daddy's Little Girls,Drama,1017610,349,542,42
+182,The Great Debaters,Biography,741701,217,258,63
+183,28 Weeks Later,Drama,873272,306,567,3
+184,We Own the Night,Crime,1122471,33,882,15
+185,Mr. Brooks,Crime,654332,198,12,47
+186,Hannibal Rising,Crime,1277733,196,697,40
+187,The Nanny Diaries,Comedy,1216770,306,739,31
+188,Mr. Woodcock,Comedy,972031,240,118,8
+189,The Mist,Horror,1267809,271,699,31
+190,Nancy Drew,Comedy,860212,129,907,73
+191,The Reaping,Horror,694379,284,550,11
+192,Grindhouse,Action,1114911,441,769,11
+193,Sicko,Documentary,944961,483,274,63
+194,Across the Universe,Drama,1056221,6,788,9
+195,Perfect Stranger,Crime,750435,349,657,69
+196,Sea Monsters: A Prehistoric Adventure,Adventure,774658,370,349,17
+197,The Dark Knight,Action,675641,59,115,17
+198,Iron Man,Action,667111,350,301,85
+199,Indiana Jones and the Kingdom of the Crystal Skull,Action,947241,454,446,61
+200,Hancock,Action,1144646,275,162,71
+201,WALLÂ·E,Adventure,749853,385,465,22
+202,Kung Fu Panda,Action,730005,137,4,34
+203,Twilight,Drama,874297,394,740,68
+204,Madagascar: Escape 2 Africa,Action,1191750,329,897,78
+205,Quantum of Solace,Action,770346,175,737,55
+206,Horton Hears a Who!,Adventure,1035616,58,270,28
+207,Sex and the City,Comedy,1103771,151,513,70
+208,Gran Torino,Drama,1017125,223,781,89
+209,Mamma Mia!,Comedy,1194524,81,183,26
+210,Marley & Me,Comedy,1067578,233,520,40
+211,The Chronicles of Narnia: Prince Caspian,Action,1243962,2,109,52
+212,Slumdog Millionaire,Drama,790121,489,892,86
+213,The Incredible Hulk,Action,1063129,370,641,84
+214,Wanted,Action,731923,449,306,48
+215,Get Smart,Action,1141209,369,862,57
+216,The Curious Case of Benjamin Button,Drama,1273650,135,655,67
+217,Four Christmases,Comedy,1056032,257,520,58
+218,Bolt,Adventure,921420,391,624,16
+219,Tropic Thunder,Action,662397,92,204,32
+220,Bedtime Stories,Comedy,1016620,260,157,29
+221,The Mummy: Tomb of the Dragon Emperor,Action,855915,468,383,9
+222,Journey to the Center of the Earth,Action,1093012,55,781,44
+223,Eagle Eye,Action,1094389,446,166,3
+224,Step Brothers,Comedy,875674,321,553,76
+225,You Don't Mess with the Zohan,Action,1008395,153,798,71
+226,Yes Man,Comedy,732272,431,544,30
+227,"10,000 BC",Action,1013270,328,1,76
+228,Beverly Hills Chihuahua,Adventure,1199005,260,614,29
+229,High School Musical 3: Senior Year,Comedy,1004188,312,332,1
+230,Pineapple Express,Action,691583,102,501,10
+231,Valkyrie,Drama,1045571,79,20,81
+232,21,Crime,917374,192,115,8
+233,What Happens in Vegas,Comedy,827120,391,372,30
+234,Jumper,Action,756185,83,900,9
+235,Cloverfield,Action,1104897,277,852,5
+236,The Day the Earth Stood Still,Drama,724218,489,827,43
+237,27 Dresses,Comedy,850501,399,315,10
+238,Hellboy II: The Golden Army,Action,1254244,473,246,66
+239,Vantage Point,Action,650486,272,60,31
+240,The Spiderwick Chronicles,Adventure,681127,471,247,36
+241,Fool's Gold,Action,977801,1,900,86
+242,Seven Pounds,Drama,883492,307,581,63
+243,Role Models,Comedy,760132,166,81,28
+244,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,Documentary,1220094,251,88,70
+245,The Happening,Comedy,843265,10,750,17
+246,Forgetting Sarah Marshall,Comedy,700034,58,498,74
+247,Baby Mama,Comedy,1209220,476,836,74
+248,Burn After Reading,Comedy,845312,186,71,61
+249,Step Up 2: The Streets,Drama,1242959,450,779,32
+250,Saw V,Horror,854533,426,546,61
+251,The Strangers,Horror,872408,414,785,53
+252,The Forbidden Kingdom,Action,972611,158,129,25
+253,The Tale of Despereaux,Adventure,782813,123,132,13
+254,Australia,Adventure,1253024,30,676,13
+255,The House Bunny,Comedy,631065,124,487,85
+256,Nim's Island,Adventure,918835,450,563,56
+257,Made of Honor,Comedy,779808,291,170,46
+258,College Road Trip,Adventure,764398,485,272,55
+259,The Sisterhood of the Traveling Pants 2,Comedy,1194548,41,541,53
+260,Speed Racer,Action,890921,44,894,60
+261,Prom Night,Horror,811065,375,622,7
+262,Rambo,Action,743358,249,434,87
+263,"Welcome Home, Roscoe Jenkins",Comedy,655124,418,217,84
+264,Meet the Browns,Comedy,766297,36,553,83
+265,Nights in Rodanthe,Drama,643674,390,774,13
+266,Max Payne,Action,1003736,273,748,8
+267,Righteous Kill,Action,877581,393,707,52
+268,Body of Lies,Action,1245549,65,206,44
+269,Lakeview Terrace,Crime,967590,66,731,14
+270,Meet the Spartans,Comedy,644639,338,320,32
+271,Harold & Kumar Escape from Guantanamo Bay,Adventure,810802,244,409,25
+272,First Sunday,Comedy,906350,485,688,25
+273,The Secret Life of Bees,Drama,683036,282,666,69
+274,The Family That Preys,Drama,761007,85,383,58
+275,Death Race,Action,1069501,136,449,18
+276,Changeling,Biography,1179732,271,530,55
+277,Star Wars: The Clone Wars,Action,747261,447,463,24
+278,The Reader,Drama,694737,311,124,36
+279,Semi-Pro,Comedy,1127472,217,254,60
+280,Fireproof,Drama,1098142,494,231,32
+281,Doubt,Drama,1007717,109,66,10
+282,Drillbit Taylor,Comedy,1166261,476,347,57
+283,"Definitely, Maybe",Comedy,1250595,277,22,71
+284,The Love Guru,Comedy,742443,387,603,13
+285,Milk,Biography,1102054,374,568,7
+286,Transporter 3,Action,1156405,354,236,84
+287,Quarantine,Horror,860403,103,603,70
+288,Nick and Norah's Infinite Playlist,Comedy,1273078,366,226,2
+289,Zack and Miri Make a Porno,Comedy,673563,160,8,12
+290,The Eye,Horror,1174873,205,73,31
+291,Leatherheads,Comedy,944374,344,725,22
+292,Mirrors,Horror,1108384,333,647,53
+293,Space Chimps,Adventure,660755,192,61,63
+294,The Bank Job,Crime,691872,225,235,62
+295,Untraceable,Crime,1130340,461,70,28
+296,The Women,Comedy,1049218,265,33,52
+297,Avatar,Action,1075072,232,881,8
+298,Transformers: Revenge of the Fallen,Action,741298,62,339,22
+299,Harry Potter and the Half-Blood Prince,Adventure,1142176,127,73,49
+300,The Twilight Saga: New Moon,Adventure,1093200,116,527,1
+301,Up,Adventure,705152,33,244,50
+302,The Hangover,Comedy,712806,174,286,34
+303,Star Trek,Action,965850,11,686,59
+304,The Blind Side,Biography,1265938,302,498,37
+305,Alvin and the Chipmunks: The Squeakquel,Animation,783631,284,220,55
+306,Sherlock Holmes,Action,696964,118,553,90
+307,Monsters vs. Aliens,Action,760413,302,136,72
+308,Ice Age: Dawn of the Dinosaurs,Action,916467,113,741,85
+309,X-Men Origins: Wolverine,Action,1241891,4,904,63
+310,Night at the Museum: Battle of the Smithsonian,Adventure,1203085,37,585,20
+311,2012,Action,969073,363,591,25
+312,The Proposal,Comedy,1027499,324,485,38
+313,Fast & Furious,Action,1254502,31,249,28
+314,G.I. Joe: The Rise of Cobra,Action,1184421,118,804,8
+315,Paul Blart: Mall Cop,Action,937314,35,485,75
+316,Taken,Action,1103847,464,827,70
+317,A Christmas Carol,Animation,1158200,17,417,8
+318,Angels & Demons,Mystery,1262928,441,195,41
+319,Terminator Salvation,Action,1079188,170,97,8
+320,Cloudy with a Chance of Meatballs,Adventure,732088,37,100,7
+321,Inglourious Basterds,Adventure,748063,264,675,75
+322,G-Force,Action,1206208,122,442,62
+323,District 9,Sci-Fi,853560,143,363,65
+324,It's Complicated,Comedy,1079053,343,434,68
+325,Couples Retreat,Comedy,1101581,249,421,21
+326,Paranormal Activity,Horror,867684,110,479,8
+327,Watchmen,Action,1062006,277,885,66
+328,The Princess and the Frog,Adventure,983487,68,747,11
+329,Public Enemies,Biography,1103620,371,56,24
+330,Julie & Julia,Biography,1046190,479,690,9
+331,He's Just Not That Into You,Comedy,1064288,452,670,77
+332,Madea Goes to Jail,Comedy,727796,293,662,9
+333,The Ugly Truth,Comedy,955822,296,101,87
+334,Up in the Air,Drama,1075586,243,63,31
+335,Knowing,Drama,955796,125,413,52
+336,Hannah Montana: The Movie,Comedy,895363,402,746,16
+337,Where the Wild Things Are,Adventure,1020575,243,348,73
+338,Zombieland,Adventure,788145,414,820,32
+339,Coraline,Animation,1125397,209,883,75
+340,Law Abiding Citizen,Crime,698486,98,112,77
+341,Hotel for Dogs,Comedy,723748,49,255,6
+342,This Is It,Documentary,717603,50,197,80
+343,"I Love You, Man",Comedy,725850,338,195,11
+344,Obsessed,Drama,1080947,221,550,54
+345,Race to Witch Mountain,Action,729347,182,460,85
+346,The Final Destination,Horror,1018840,217,144,75
+347,The Taking of Pelham 123,Action,764527,211,433,73
+348,Friday the 13th,Horror,1211489,240,188,67
+349,17 Again,Comedy,690986,443,286,41
+350,The Time Traveler's Wife,Drama,1243045,374,474,34
+351,BrÃ¼no,Comedy,1216958,28,256,27
+352,Bride Wars,Comedy,1217059,345,896,86
+353,The Haunting in Connecticut,Drama,973750,335,78,41
+354,Ghosts of Girlfriends Past,Comedy,756260,331,454,31
+355,Funny People,Comedy,1058856,51,828,34
+356,I Can Do Bad All by Myself,Comedy,998866,32,883,51
+357,My Bloody Valentine,Horror,1071573,207,877,17
+358,Old Dogs,Comedy,682037,373,564,86
+359,Land of the Lost,Adventure,929693,174,101,83
+360,My Sister's Keeper,Drama,1257667,410,52,39
+361,Precious,Drama,955718,442,668,59
+362,Underworld: Rise of the Lycans,Action,996819,56,554,41
+363,Confessions of a Shopaholic,Comedy,736725,128,857,10
+364,The Lovely Bones,Drama,1234083,99,16,2
+365,Year One,Adventure,1160152,98,96,59
+366,The Unborn,Drama,851164,275,772,80
+367,Planet 51,Adventure,790338,230,870,73
+368,Drag Me to Hell,Horror,1133704,72,243,13
+369,Orphan,Horror,863229,217,171,10
+370,Duplicity,Comedy,741567,94,417,69
+371,Crazy Heart,Drama,995213,143,498,28
+372,Surrogates,Action,1211378,237,493,65
+373,Ninja Assassin,Action,1013507,128,219,34
+374,Invictus,Biography,748557,448,886,17
+375,State of Play,Crime,920191,473,411,45
+376,Notorious,Biography,1230079,39,61,9
+377,The Pink Panther 2,Adventure,865236,227,169,32
+378,Under the Sea 3D,Documentary,1078048,414,389,48
+379,All About Steve,Comedy,1216307,442,3,37
+380,Halloween II,Horror,1280016,439,400,21
+381,The Informant!,Comedy,1271470,282,272,57
+382,The Last House on the Left,Crime,1211875,51,803,70
+383,The Men Who Stare at Goats,Comedy,655621,26,804,39
+384,(500) Days of Summer,Comedy,1266669,334,466,79
+385,Earth,History,908531,277,293,84
+386,Push,Action,658451,429,434,68
+387,9,Action,817271,8,714,2
+388,The Soloist,Biography,914636,48,749,86
+389,Did You Hear About the Morgans?,Comedy,952085,475,803,71
+390,The Stepfather,Crime,984423,386,570,39
+391,Defiance,Action,996166,435,678,85
+392,The Uninvited,Drama,634494,122,736,14
+393,Brothers,Drama,818309,86,499,18
+394,Saw VI,Horror,778302,209,159,34
+395,The Fourth Kind,Mystery,1221922,249,195,15
+396,Toy Story 3,Adventure,1048344,247,304,14
+397,Alice in Wonderland,Adventure,701057,110,223,71
+398,Iron Man 2,Action,776858,443,60,20
+399,The Twilight Saga: Eclipse,Adventure,660238,206,594,35
+400,Harry Potter and the Deathly Hallows: Part 1,Adventure,724306,463,754,37
+401,Inception,Action,1184343,31,556,78
+402,Despicable Me,Adventure,853675,85,63,27
+403,Shrek Forever After,Adventure,1022560,195,766,44
+404,How to Train Your Dragon,Adventure,1068318,2,322,27
+405,Tangled,Adventure,1103774,200,59,88
+406,The Karate Kid,Action,985547,136,52,82
+407,Tron,Action,793147,475,599,34
+408,True Grit,Adventure,1016120,402,489,65
+409,Clash of the Titans,Action,954867,402,515,63
+410,Grown Ups,Comedy,968232,233,874,33
+411,Little Fockers,Comedy,1223256,147,544,7
+412,Megamind,Action,1253277,217,162,12
+413,The King's Speech,Biography,717175,357,59,82
+414,The Last Airbender,Action,683256,491,521,55
+415,Shutter Island,Mystery,791229,375,83,36
+416,The Other Guys,Action,793148,402,872,6
+417,Salt,Action,1275942,285,191,1
+418,Jackass 3D,Action,680271,339,71,43
+419,Valentine's Day,Comedy,713636,368,610,17
+420,Black Swan,Drama,913412,250,70,82
+421,Robin Hood,Action,1092729,80,692,34
+422,The Chronicles of Narnia: The Voyage of the Dawn Treader,Adventure,1072703,98,883,21
+423,The Expendables,Action,1137345,152,241,57
+424,Due Date,Comedy,1264657,112,414,71
+425,Yogi Bear,Adventure,1091608,30,123,55
+426,Date Night,Comedy,1062395,297,912,72
+427,The Social Network,Biography,914528,377,584,2
+428,Sex and the City 2,Comedy,854132,278,253,15
+429,The Book of Eli,Action,1165326,32,593,10
+430,The Fighter,Biography,747438,383,609,89
+431,The Town,Crime,990031,161,41,20
+432,Prince of Persia: The Sands of Time,Action,1078889,30,635,70
+433,RED,Action,744368,26,84,5
+434,Percy Jackson & the Olympians: The Lightning Thief,Adventure,925097,300,430,48
+435,Paranormal Activity 2,Horror,1250038,245,674,75
+436,Unstoppable,Action,1138363,258,598,71
+437,Eat Pray Love,Drama,1180622,471,579,19
+438,Dear John,Drama,951493,437,536,56
+439,The A-Team,Action,675715,272,324,17
+440,Knight and Day,Action,859322,81,268,6
+441,Dinner for Schmucks,Comedy,1042555,30,210,40
+442,The Tourist,Action,1256529,492,686,47
+443,The Bounty Hunter,Action,685535,261,734,6
+444,Diary of a Wimpy Kid,Comedy,636152,42,322,46
+445,The Sorcerer's Apprentice,Action,842445,436,245,27
+446,A Nightmare on Elm Street,Crime,944153,96,272,88
+447,The Last Song,Drama,849586,36,406,32
+448,The Wolfman,Drama,771993,305,135,86
+449,Get Him to the Greek,Comedy,896023,35,688,14
+450,Resident Evil: Afterlife,Action,931599,346,661,46
+451,Why Did I Get Married Too?,Comedy,972153,442,308,72
+452,Tooth Fairy,Comedy,753904,121,469,53
+453,Secretariat,Biography,636197,207,324,80
+454,Easy A,Comedy,1149638,62,770,20
+455,Takers,Action,1079666,483,75,31
+456,Legend of the Guardians: The Owls of Ga'Hoole,Action,812321,456,10,21
+457,Life as We Know It,Comedy,763553,292,470,23
+458,Letters to Juliet,Adventure,1026768,127,637,53
+459,Wall Street: Money Never Sleeps,Drama,1186545,297,577,4
+460,Predators,Action,869380,305,103,23
+461,Hubble 3D,Documentary,1152655,21,76,43
+462,Hot Tub Time Machine,Comedy,1213956,318,551,53
+463,Kick-Ass,Action,999463,42,219,86
+464,Killers,Action,703668,215,519,32
+465,Saw 3D,Horror,1044451,337,272,35
+466,Cop Out,Action,672449,299,136,21
+467,Cats & Dogs: The Revenge of Kitty Galore,Action,1085501,290,358,90
+468,Edge of Darkness,Crime,647743,268,903,14
+469,Gulliver's Travels,Adventure,1110179,162,71,49
+470,Death at a Funeral,Comedy,709736,479,901,5
+471,Step Up 3D,Drama,956359,134,251,61
+472,The Last Exorcism,Drama,1231819,105,379,29
+473,Legion,Action,1078229,343,292,26
+474,Burlesque,Drama,1229345,367,162,59
+475,The Crazies,Horror,1052160,161,449,45
+476,For Colored Girls,Drama,1066075,123,854,40
+477,The Back-up Plan,Comedy,931670,136,557,30
+478,Vampires Suck,Adventure,748860,203,721,29
+479,The American,Crime,1052799,68,310,4
+480,Green Zone,Action,649961,344,627,85
+481,Devil,Horror,968636,331,827,25
+482,Marmaduke,Comedy,808314,154,670,52
+483,Hereafter,Drama,1276243,235,542,43
+484,When in Rome,Comedy,1110538,162,9,36
+485,Love & Other Drugs,Comedy,1007522,476,684,9
+486,She's Out of My League,Comedy,720502,385,837,36
+487,Scott Pilgrim vs. the World,Action,1086017,480,568,45
+488,Charlie St. Cloud,Drama,739097,38,307,83
+489,Morning Glory,Comedy,883227,5,680,66
+490,How Do You Know,Comedy,1084931,235,107,52
+491,Daybreakers,Action,1245568,319,900,87
+492,Nanny McPhee and the Big Bang,Comedy,1047994,289,138,69
+493,The Switch,Comedy,1177506,52,271,43
+494,Brooklyn's Finest,Crime,710559,38,119,4
+495,Machete,Action,1043083,276,912,15
+496,Harry Potter and the Deathly Hallows: Part 2,Adventure,953438,110,110,34
+497,Transformers: Dark of the Moon,Action,984097,260,761,23
+498,The Twilight Saga: Breaking Dawn - Part 1,Adventure,860427,136,567,75
+499,The Hangover Part II,Comedy,977339,68,160,34
+500,Pirates of the Caribbean: On Stranger Tides,Action,804391,478,279,5
+501,Fast Five,Action,708181,179,289,14
+502,Mission: Impossible - Ghost Protocol,Action,1163372,452,620,77
+503,Cars 2,Adventure,747657,36,216,56
+504,Sherlock Holmes: A Game of Shadows,Action,1184471,451,735,45
+505,Thor,Action,1162815,126,352,41
+506,Rise of the Planet of the Apes,Action,831414,190,209,56
+507,Captain America: The First Avenger,Action,994438,146,704,78
+508,The Help,Drama,996246,81,650,66
+509,Bridesmaids,Comedy,782956,225,874,15
+510,Kung Fu Panda 2,Action,875837,427,271,50
+511,Puss in Boots,Action,735890,279,518,74
+512,X: First Class,Action,781649,361,501,25
+513,Rio,Adventure,896494,155,258,33
+514,The Smurfs,Adventure,834946,314,867,6
+515,Alvin and the Chipmunks: Chipwrecked,Adventure,810018,414,53,56
+516,Super 8,Mystery,1259753,335,95,1
+517,Rango,Adventure,788387,271,650,67
+518,Horrible Bosses,Comedy,707105,5,434,69
+519,Green Lantern,Action,813843,342,850,88
+520,Hop,Adventure,1146211,419,284,86
+521,Paranormal Activity 3,Horror,1114582,284,46,26
+522,Just Go with It,Comedy,1219211,154,4,47
+523,The Girl with the Dragon Tattoo,Crime,1235708,478,342,56
+524,Bad Teacher,Comedy,1098803,340,790,9
+525,Cowboys & Aliens,Action,1220004,54,134,86
+526,Gnomeo & Juliet,Animation,967000,481,653,43
+527,The Green Hornet,Action,959587,450,269,80
+528,The Muppets,Adventure,786382,69,166,41
+529,Real Steel,Action,1089216,136,760,85
+530,"Crazy, Stupid, Love.",Comedy,699695,60,453,16
+531,Battle Los Angeles,Action,1119791,456,565,39
+532,Immortals,Action,1091780,55,723,65
+533,The Descendants,Comedy,945622,381,438,40
+534,Zookeeper,Comedy,916108,284,575,86
+535,War Horse,Drama,1248240,80,10,53
+536,Limitless,Mystery,686992,140,115,42
+537,Tower Heist,Action,997130,145,78,52
+538,The Adventures of Tintin,Action,1160073,310,905,90
+539,Contagion,Drama,705886,108,708,38
+540,We Bought a Zoo,Comedy,953578,368,153,71
+541,Moneyball,Biography,1112264,176,559,17
+542,Jack and Jill,Comedy,1101958,105,37,25
+543,Hugo,Adventure,667526,352,855,54
+544,Justin Bieber: Never Say Never,Documentary,687745,325,379,86
+545,Dolphin Tale,Drama,1014741,437,597,49
+546,No Strings Attached,Comedy,929114,136,566,87
+547,Mr. Popper's Penguins,Comedy,708550,259,152,23
+548,Happy Feet Two,Animation,722774,251,441,79
+549,Unknown,Action,1272975,129,131,73
+550,The Adjustment Bureau,Romance,1251029,464,43,39
+551,Water for Elephants,Drama,1159791,465,316,52
+552,The Lincoln Lawyer,Crime,1031251,434,374,71
+553,Midnight in Paris,Comedy,1113280,27,816,1
+554,Friends with Benefits,Comedy,1236611,48,882,39
+555,I Am Number Four,Action,1209334,325,41,37
+556,Source Code,Mystery,671107,217,367,27
+557,New Year's Eve,Comedy,1099671,425,216,56
+558,Insidious,Short,1227517,142,699,75
+559,Madea's Big Happy Family,Comedy,825475,23,256,78
+560,Diary of a Wimpy Kid: Rodrick Rules,Comedy,965237,2,683,84
+561,Footloose,Comedy,1262486,171,106,42
+562,The Dilemma,Comedy,1126825,395,363,60
+563,Arthur Christmas,Adventure,1153813,67,799,57
+564,Hall Pass,Comedy,786281,327,574,57
+565,The Artist,Comedy,692971,135,906,87
+566,Soul Surfer,Biography,1100499,83,896,28
+567,Final Destination 5,Horror,736621,380,417,66
+568,The Ides of March,Drama,988212,227,636,61
+569,Hanna,Action,716517,283,768,22
+570,Something Borrowed,Comedy,1157149,362,159,85
+571,Spy Kids: All the Time in the World in 4D,Action,809033,219,243,11
+572,Scream 4,Horror,669135,288,886,37
+573,"Big Mommas: Like Father, Like Son",Action,887870,5,167,66
+574,Red Riding Hood,Fantasy,1087114,58,820,85
+575,In Time,Action,1088859,39,831,82
+576,Paul,Adventure,1177617,484,182,80
+577,J. Edgar,Biography,1176233,453,903,43
+578,The Roommate,Drama,1267519,354,423,12
+579,Jumping the Broom,Comedy,794549,463,26,31
+580,The Change-Up,Comedy,1009666,77,184,87
+581,30 Minutes or Less,Action,1019055,280,755,40
+582,Colombiana,Action,924727,19,341,29
+583,Sucker Punch,Action,1034327,428,802,26
+584,Larry Crowne,Comedy,1056717,190,422,19
+585,A Very Harold & Kumar 3D Christmas,Adventure,982895,299,822,4
+586,Drive,Crime,1255020,283,686,6
+587,50/50,Comedy,683001,76,885,32
+588,Courageous,Drama,978997,221,753,61
+589,The Rite,Drama,697205,66,831,79
+590,Arthur,Comedy,973797,22,255,10
+591,Extremely Loud & Incredibly Close,Adventure,727188,158,274,59
+592,The Debt,Drama,1213158,187,164,54
+593,The Sitter,Comedy,1033433,461,807,81
+594,Priest,Action,926041,478,719,74
+595,The Mechanic,Action,892328,408,111,25
+596,The Avengers,Action,1260069,441,392,90
+597,The Dark Knight Rises,Action,785769,21,894,50
+598,The Hunger Games,Adventure,977647,461,40,64
+599,Skyfall,Action,713553,184,880,52
+600,The Hobbit: An Unexpected Journey,Adventure,1239138,108,482,32
+601,The Twilight Saga: Breaking Dawn - Part 2,Adventure,776390,350,228,19
+602,The Amazing Spider-Man,Action,994905,128,205,84
+603,Brave,Adventure,953393,342,837,89
+604,Ted,Comedy,1039089,53,472,1
+605,Madagascar 3: Europe's Most Wanted,Adventure,763307,182,359,14
+606,The Lorax,Adventure,1252037,400,313,55
+607,Wreck-It Ralph,Adventure,716926,287,841,29
+608,Lincoln,Biography,952712,453,815,23
+609,Men in Black 3,Action,1214164,448,893,90
+610,Django Unchained,Drama,1023068,209,234,67
+611,Ice Age: Continental Drift,Adventure,972524,318,229,60
+612,Snow White and the Huntsman,Action,762093,384,25,7
+613,Les MisÃ©rables,Drama,1180055,80,676,72
+614,Hotel Transylvania,Animation,726084,474,198,32
+615,Taken 2,Action,1072065,477,409,16
+616,21 Jump Street,Action,1161280,122,337,59
+617,Argo,Biography,1007496,443,286,18
+618,Silver Linings Playbook,Comedy,647208,84,886,60
+619,Prometheus,Adventure,1008303,410,72,86
+620,Safe House,Action,951961,416,792,68
+621,The Vow,Drama,817111,91,286,72
+622,Life of Pi,Adventure,852689,452,360,77
+623,Magic Mike,Comedy,986424,212,657,41
+624,The Bourne Legacy,Action,1137984,13,522,57
+625,Journey 2: The Mysterious Island,Action,829424,92,410,79
+626,Rise of the Guardians,Adventure,865639,378,696,65
+627,Zero Dark Thirty,Drama,772339,474,864,55
+628,Flight,Drama,790563,171,550,71
+629,Think Like a Man,Comedy,709005,401,340,58
+630,The Campaign,Comedy,938252,477,29,21
+631,The Expendables 2,Action,734145,211,119,61
+632,Wrath of the Titans,Action,1160443,411,899,58
+633,Jack Reacher,Action,1194082,343,268,34
+634,Dark Shadows,Comedy,1180200,443,183,32
+635,Parental Guidance,Comedy,667673,377,595,82
+636,John Carter,Action,981215,416,272,36
+637,Act of Valor,Action,1276144,128,40,67
+638,This Is 40,Comedy,765506,137,112,63
+639,Contraband,Action,1254350,82,611,81
+640,Looper,Action,1023111,404,445,31
+641,Madea's Witness Protection,Comedy,789837,360,354,36
+642,Battleship,Action,798220,56,747,57
+643,Pitch Perfect,Comedy,817722,196,806,10
+644,Mirror Mirror,Adventure,801672,447,322,37
+645,Chronicle,Sci-Fi,1087025,20,447,31
+646,Hope Springs,Comedy,673906,440,621,35
+647,Underworld Awakening,Action,1058908,241,524,43
+648,The Lucky One,Drama,1010087,114,119,41
+649,The Dictator,Comedy,877160,103,395,70
+650,Total Recall,Action,1093868,419,591,11
+651,American Reunion,Comedy,1268347,471,195,18
+652,ParaNorman,Adventure,926860,236,261,20
+653,This Means War,Action,1098827,180,46,30
+654,Project X,Comedy,873461,157,726,50
+655,The Woman in Black,Drama,1188043,421,447,89
+656,Paranormal Activity 4,Horror,878878,408,2,20
+657,The Devil Inside,Horror,952592,447,533,28
+658,The Odd Life of Timothy Green,Comedy,1119890,117,826,9
+659,Ghost Rider: Spirit of Vengeance,Action,831532,115,552,54
+660,The Grey,Action,1013801,13,704,53
+661,Red Tails,Action,1226220,338,737,43
+662,The Possession,Horror,1090091,99,760,70
+663,Diary of a Wimpy Kid: Dog Days,Comedy,1112198,205,755,60
+664,Sinister,Horror,923551,169,687,54
+665,Savages,Crime,1028514,143,202,8
+666,The Best Exotic Marigold Hotel,Comedy,1155427,443,373,27
+667,Moonrise Kingdom,Adventure,1181173,36,442,54
+668,Here Comes the Boom,Action,1067089,396,72,50
+669,Red Dawn,Action,798022,143,681,75
+670,The Three Stooges,Comedy,837490,180,339,90
+671,Resident Evil: Retribution,Action,1262127,329,639,3
+672,The Cabin in the Woods,Horror,773213,261,322,74
+673,What to Expect When You're Expecting,Comedy,890239,205,680,49
+674,End of Watch,Action,682806,348,869,62
+675,Rock of Ages,Comedy,1132027,432,128,1
+676,Abraham Lincoln: Vampire Hunter,Action,1017336,275,738,46
+677,Lawless,Crime,1209570,170,308,39
+678,The Guilt Trip,Comedy,735665,481,520,50
+679,That's My Boy,Comedy,1169062,15,317,54
+680,Trouble with the Curve,Drama,758826,60,683,69
+681,Frankenweenie,Animation,927002,450,419,70
+682,Step Up Revolution,Drama,716041,134,335,78
+683,Good Deeds,Comedy,796191,92,413,29
+684,The Watch,Action,914134,298,714,63
+685,2016: Obama's America,Documentary,1099237,493,303,29
+686,House at the End of the Street,Drama,1166381,136,568,35
+687,The Pirates! In an Adventure with Scientists!,Adventure,782598,20,131,56
+688,Joyful Noise,Comedy,1086815,56,197,63
+689,The Iron Lady,Biography,724260,306,431,4
+690,Chimpanzee,Documentary,860915,223,681,50
+691,The Five-Year Engagement,Comedy,1101133,177,389,44
+692,Cloud Atlas,Action,994658,374,694,86
+693,One for the Money,Action,656057,403,767,87
+694,Alex Cross,Action,1063142,161,179,52
+695,Katy Perry: Part of Me,Documentary,683935,224,631,22
+696,The Hunger Games: Catching Fire,Action,1043804,311,583,60
+697,Iron Man Three,Action,1154484,262,309,17
+698,Frozen,Adventure,1020219,60,416,80
+699,Despicable Me 2,Adventure,875323,198,562,69
+700,Man of Steel,Action,1033016,461,854,4
+701,Gravity,Drama,713661,296,1,51
+702,Monsters University,Adventure,1021216,98,312,76
+703,The Hobbit: The Desolation of Smaug,Adventure,863537,131,294,73
+704,Furious 6,Action,657648,23,216,85
+705,Oz the Great and Powerful,Adventure,962257,363,441,4
+706,Star Trek Into Darkness,Action,731988,224,805,11
+707,Thor: The Dark World,Action,979669,1,594,83
+708,World War Z,Action,781235,267,622,55
+709,The Croods,Adventure,772375,474,671,18
+710,The Heat,Action,668255,413,330,60
+711,We're the Millers,Comedy,928906,276,477,24
+712,American Hustle,Crime,1123496,352,453,7
+713,The Great Gatsby,Drama,773626,369,453,34
+714,The Conjuring,Horror,1119989,482,692,49
+715,Identity Thief,Comedy,1098484,380,219,42
+716,Grown Ups 2,Comedy,1273331,378,524,28
+717,The Wolverine,Action,633598,344,485,59
+718,Anchorman 2: The Legend Continues,Comedy,711166,101,813,42
+719,Lone Survivor,Action,648019,187,816,44
+720,G.I. Joe: Retaliation,Action,896447,221,754,49
+721,Cloudy with a Chance of Meatballs 2,Adventure,854222,36,174,36
+722,Now You See Me,Crime,784874,486,675,54
+723,The Wolf of Wall Street,Biography,1203554,341,87,33
+724,The Butler,Biography,1266549,472,291,11
+725,The Hangover Part III,Comedy,1181500,170,528,61
+726,Epic,Adventure,1071906,320,680,3
+727,Captain Phillips,Biography,744679,161,649,70
+728,Bad Grandpa,Comedy,930188,340,635,7
+729,Pacific Rim,Action,877275,435,344,45
+730,This Is the End,Comedy,943871,64,96,29
+731,Olympus Has Fallen,Action,755859,369,839,84
+732,42,Biography,678160,461,770,9
+733,Elysium,Action,878113,154,241,84
+734,Planes,Adventure,1068310,260,689,6
+735,The Lone Ranger,Action,1107410,159,318,4
+736,Oblivion,Action,693950,342,231,32
+737,Insidious: Chapter 2,Horror,744334,210,826,26
+738,Saving Mr. Banks,Biography,1152200,168,204,3
+739,Turbo,Adventure,1253818,207,151,80
+740,2 Guns,Action,1190185,357,26,20
+741,White House Down,Action,645325,152,48,31
+742,Mama,Horror,1168502,284,251,17
+743,Safe Haven,Drama,1231072,66,487,61
+744,The Smurfs 2,Adventure,881782,99,626,86
+745,The Best Man Holiday,Comedy,778643,216,871,15
+746,Percy Jackson: Sea of Monsters,Adventure,933512,341,787,73
+747,A Good Day to Die Hard,Action,1078181,482,75,28
+748,Warm Bodies,Comedy,629732,195,467,60
+749,Jack the Giant Slayer,Adventure,1272766,347,425,90
+750,The Purge,Horror,998046,384,908,33
+751,Last Vegas,Comedy,880341,463,645,48
+752,Ender's Game,Action,1226476,90,590,22
+753,Prisoners,Crime,1064894,316,200,78
+754,After Earth,Action,824504,292,736,78
+755,The Secret Life of Walter Mitty,Adventure,717864,155,714,15
+756,Escape from Planet Earth,Adventure,1177005,208,394,21
+757,12 Years a Slave,Biography,1006212,281,507,40
+758,Free Birds,Adventure,699058,427,410,14
+759,Hansel & Gretel: Witch Hunters,Action,1179705,1,250,75
+760,Evil Dead,Fantasy,1198603,156,152,4
+761,RED 2,Action,1160063,147,672,40
+762,A Madea Christmas,Comedy,1160372,108,705,74
+763,Temptation: Confessions of a Marriage Counselor,Drama,1209162,221,6,87
+764,The Call,Crime,649414,403,915,49
+765,Pain & Gain,Action,1037512,297,769,51
+766,Gangster Squad,Action,1121064,311,882,26
+767,The Internship,Comedy,673741,336,789,10
+768,No se aceptan devoluciones,Comedy,1033766,165,907,76
+769,Snitch,Action,1019527,239,110,89
+770,Riddick,Action,894063,227,798,81
+771,A Haunted House,Comedy,645123,227,436,32
+772,47 Ronin,Action,1002532,346,225,14
+773,August: Osage County,Drama,698933,110,181,90
+774,Philomena,Biography,989643,262,824,39
+775,The Family,Comedy,880930,243,713,88
+776,Walking with Dinosaurs 3D,Adventure,736791,407,531,77
+777,Carrie,Drama,1238261,462,476,16
+778,Texas Chainsaw 3D,Horror,976763,492,52,73
+779,R.I.P.D.,Action,767982,408,571,6
+780,Blue Jasmine,Drama,674581,377,256,45
+781,Kevin Hart: Let Me Explain,Comedy,997504,87,869,69
+782,Side Effects,Crime,1200628,338,125,55
+783,Scary Movie 5,Comedy,983084,44,468,85
+784,The Mortal Instruments: City of Bones,Action,811686,146,137,48
+785,Delivery Man,Comedy,1115284,264,821,9
+786,Grudge Match,Comedy,1129868,340,476,65
+787,One Direction: This Is Us,Documentary,819224,325,684,83
+788,Kick-Ass 2,Action,769495,318,544,44
+789,Dallas Buyers Club,Biography,694257,172,573,2
+790,Rush,Action,1108003,48,610,54
+791,The Host,Action,666872,420,325,63
+792,The World's End,Action,935788,488,774,14
+793,21 & Over,Comedy,839475,385,913,56
+794,Escape Plan,Action,674026,121,454,47
+795,Don Jon,Comedy,837251,345,628,82
+796,American Sniper,Action,672033,159,835,59
+797,The Hunger Games: Mockingjay - Part 1,Action,959018,116,737,20
+798,Guardians of the Galaxy,Action,953230,413,914,56
+799,Captain America: The Winter Soldier,Action,1168510,102,517,23
+800,The LEGO Movie,Action,1045660,76,437,67
+801,The Hobbit: The Battle of the Five Armies,Adventure,1197500,13,851,84
+802,Transformers: Age of Extinction,Action,1124487,24,562,35
+803,Maleficent,Action,893710,126,457,79
+804,X-Men: Days of Future Past,Action,666491,244,163,69
+805,Big Hero 6,Action,828478,313,762,62
+806,Dawn of the Planet of the Apes,Action,928101,436,883,60
+807,The Amazing Spider-Man 2,Action,1002406,394,487,56
+808,Godzilla,Action,678218,38,461,76
+809,22 Jump Street,Action,976140,234,266,35
+810,Teenage Mutant Ninja Turtles,Action,914580,213,770,42
+811,Interstellar,Adventure,758613,454,254,32
+812,How to Train Your Dragon 2,Action,1013988,323,861,12
+813,Gone Girl,Crime,1086268,295,653,36
+814,Divergent,Adventure,1047545,100,284,58
+815,Neighbors,Comedy,1089189,368,785,32
+816,Ride Along,Action,1033518,357,797,60
+817,Rio 2,Adventure,983597,197,534,73
+818,Into the Woods,Adventure,823984,254,497,79
+819,Lucy,Action,1148398,205,642,86
+820,The Fault in Our Stars,Drama,1149783,125,245,49
+821,Unbroken,Biography,1013283,76,282,44
+822,Night at the Museum: Secret of the Tomb,Adventure,1172592,336,451,4
+823,Mr. Peabody & Sherman,Adventure,907768,353,80,64
+824,300: Rise of an Empire,Action,714716,3,731,42
+825,The Maze Runner,Action,1073212,458,293,24
+826,The Equalizer,Action,710852,385,241,63
+827,Noah,Action,1079616,441,279,28
+828,Edge of Tomorrow,Action,1259810,395,344,46
+829,Non-Stop,Action,817314,454,328,34
+830,Heaven Is for Real,Biography,1200063,55,915,44
+831,The Imitation Game,Biography,936128,399,554,36
+832,Dumb and Dumber To,Adventure,964906,218,83,77
+833,Annie,Comedy,735673,113,142,90
+834,Fury,Action,712050,91,155,36
+835,Tammy,Comedy,971940,412,237,72
+836,Annabelle,Horror,938092,491,393,2
+837,The Other Woman,Comedy,949476,357,711,67
+838,Penguins of Madagascar,Adventure,1095668,266,157,25
+839,Let's Be Cops,Comedy,1259986,238,724,11
+840,The Monuments Men,Drama,1074907,26,220,31
+841,Hercules,Action,802831,286,66,53
+842,The Purge: Anarchy,Action,1093563,128,425,63
+843,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Comedy,996715,470,418,72
+844,Think Like a Man Too,Comedy,1096941,435,339,31
+845,Exodus: Gods and Kings,Action,672504,63,556,89
+846,The Nut Job,Adventure,997777,234,478,61
+847,God's Not Dead,Drama,1272810,69,426,83
+848,Son of God,Biography,1084160,411,64,63
+849,Planes: Fire & Rescue,Adventure,915984,238,212,58
+850,The Grand Budapest Hotel,Adventure,688236,342,853,3
+851,RoboCop,Action,706778,272,431,12
+852,Dracula Untold,Action,1054034,287,399,38
+853,Horrible Bosses 2,Comedy,1009051,305,789,29
+854,The Hundred-Foot Journey,Comedy,1166101,163,599,52
+855,No Good Deed,Crime,795850,487,713,89
+856,Muppets Most Wanted,Adventure,660745,387,21,32
+857,Ouija,Horror,777807,457,878,40
+858,The Boxtrolls,Adventure,1265178,227,902,85
+859,Jack Ryan: Shadow Recruit,Action,1087549,314,784,75
+860,If I Stay,Drama,664581,418,590,48
+861,The Book of Life,Adventure,760453,369,390,61
+862,About Last Night,Comedy,698591,457,489,71
+863,Into the Storm,Action,875551,259,7,68
+864,The Judge,Crime,1012215,219,361,45
+865,Jersey Boys,Biography,1007834,426,306,55
+866,Blended,Comedy,1029543,465,772,71
+867,The Giver,Drama,1222891,281,400,43
+868,St. Vincent,Comedy,662050,229,874,46
+869,Need for Speed,Action,1262579,460,914,90
+870,John Wick,Action,788983,82,856,59
+871,A Million Ways to Die in the West,Comedy,1099870,381,430,35
+872,Birdman or (The Unexpected Virtue of Ignorance),Comedy,1017076,442,552,40
+873,Dolphin Tale 2,Drama,1018176,244,766,33
+874,The Expendables 3,Action,1093596,231,753,30
+875,Earth to Echo,Adventure,708712,133,560,16
+876,Sex Tape,Comedy,1229892,385,820,25
+877,Wild,Adventure,772475,127,618,41
+878,Million Dollar Arm,Biography,1183270,431,226,16
+879,The Theory of Everything,Biography,1012866,327,500,69
+880,This Is Where I Leave You,Comedy,1045460,142,225,89
+881,The Gambler,Crime,957749,393,280,24
+882,Paranormal Activity: The Marked Ones,Horror,920319,399,447,25
+883,Nightcrawler,Crime,889828,267,498,28
+884,Chef,Adventure,747051,249,30,62
+885,3 Days to Kill,Action,655264,321,399,36
+886,Deliver Us from Evil,Horror,823177,123,345,76
+887,Get on Up,Biography,1151377,141,685,68
+888,When the Game Stands Tall,Drama,1170987,226,696,77
+889,Draft Day,Drama,1033877,40,818,37
+890,Oculus,Horror,1217048,366,415,13
+891,The Best of Me,Drama,751573,147,742,25
+892,That Awkward Moment,Comedy,902584,121,170,38
+893,A Walk Among the Tombstones,Crime,901025,140,861,30
+894,Her,Drama,1096043,172,479,47
+895,Boyhood,Drama,853085,164,131,23
+896,Star Wars: Episode VII - The Force Awakens,Action,1269691,458,638,39
+897,Jurassic World,Action,927541,277,547,2
+898,Avengers: Age of Ultron,Action,1143152,42,28,69
+899,Inside Out,Adventure,837994,71,404,17
+900,Furious Seven,Action,756686,78,607,36
+901,Minions,Action,770413,119,578,6
+902,The Hunger Games: Mockingjay - Part 2,Action,705741,197,679,7
+903,The Martian,Adventure,1102093,356,28,71
+904,Cinderella,Drama,809135,79,86,38
+905,Spectre,Action,1094824,362,659,90
+906,Mission: Impossible - Rogue Nation,Action,720147,110,439,17
+907,Pitch Perfect 2,Comedy,963204,33,139,82
+908,The Revenant,Adventure,992393,213,888,63
+909,Ant-Man,Action,696185,209,473,14
+910,Home,Adventure,1204805,170,187,2
+911,Hotel Transylvania 2,Animation,1196599,278,52,74
+912,Fifty Shades of Grey,Drama,932558,239,267,37
+913,The SpongeBob Movie: Sponge Out of Water,Adventure,942619,213,389,61
+914,Straight Outta Compton,Biography,793248,32,336,62
+915,San Andreas,Action,810639,106,217,57
+916,Mad Max: Fury Road,Action,1007144,427,466,44
+917,Daddy's Home,Comedy,1161561,216,335,24
+918,Insurgent,Action,863226,200,346,7
+919,The Peanuts Movie,Adventure,755349,464,780,33
+920,Kingsman: The Secret Service,Action,838835,395,901,62
+921,The Good Dinosaur,Adventure,773714,300,389,15
+922,Spy,Action,876327,485,285,9
+923,Trainwreck,Comedy,1146111,357,771,52
+924,Creed,Drama,655652,11,852,63
+925,Tomorrowland,Action,1006519,439,432,10
+926,Get Hard,Comedy,1209025,451,259,74
+927,Terminator Genisys,Action,1228168,392,855,81
+928,Taken 3,Action,1014923,295,84,88
+929,Sisters,Comedy,1118202,195,482,7
+930,Alvin and the Chipmunks: The Road Chip,Adventure,1206535,245,20,20
+931,Maze Runner: The Scorch Trials,Action,764166,4,768,20
+932,Ted 2,Comedy,1269766,483,553,73
+933,Goosebumps,Adventure,718495,181,54,39
+934,Pixels,Action,697033,153,359,11
+935,Paddington,Adventure,952406,386,230,32
+936,The Intern,Comedy,1045592,200,666,16
+937,Bridge of Spies,Drama,1130008,437,71,72
+938,Paul Blart: Mall Cop 2,Action,1179323,457,800,54
+939,The Big Short,Biography,1058841,489,668,78
+940,War Room,Drama,1057414,428,42,77
+941,Magic Mike XXL,Comedy,1230918,215,773,80
+942,The Visit,Horror,705425,276,32,29
+943,The Wedding Ringer,Comedy,759506,383,254,67
+944,Black Mass,Biography,960519,377,205,49
+945,Vacation,Adventure,705859,280,860,58
+946,The Perfect Guy,Drama,1099924,410,21,57
+947,Joy,Biography,1116553,309,637,39
+948,Fantastic Four,Action,1170583,460,157,76
+949,The Hateful Eight,Crime,989341,113,245,55
+950,Focus,Comedy,762660,250,130,40
+951,Southpaw,Drama,1206175,113,485,73
+952,Insidious: Chapter 3,Horror,1244430,140,686,80
+953,Selma,Biography,818894,224,118,8
+954,Jupiter Ascending,Action,763392,249,578,79
+955,Poltergeist,Horror,1081725,15,224,13
+956,Sicario,Action,1155382,200,477,27
+957,The Man from U.N.C.L.E.,Action,686196,173,717,81
+958,Spotlight,Crime,758284,343,263,28
+959,"McFarland, USA",Biography,1171361,348,786,34
+960,The Gift,Drama,788540,409,378,85
+961,Everest,Action,946989,208,172,11
+962,The Night Before,Adventure,800747,371,621,21
+963,Krampus,Comedy,797926,85,622,31
+964,Max,Adventure,966426,431,766,23
+965,The Age of Adaline,Drama,864514,240,736,71
+966,Brooklyn,Drama,990923,471,118,10
+967,The Longest Ride,Drama,1172195,66,797,21
+968,The Boy Next Door,Mystery,925938,319,839,1
+969,Pan,Adventure,710782,274,168,53
+970,Hot Pursuit,Action,890870,14,319,58
+971,Concussion,Biography,833929,465,111,89
+972,The DUFF,Comedy,1205691,202,593,77
+973,Woman in Gold,Biography,915874,304,27,61
+974,The Second Best Exotic Marigold Hotel,Comedy,759342,289,320,38
+975,Unfriended,Drama,945626,340,590,5
+976,Entourage,Comedy,1272366,14,694,30
+977,Paper Towns,Drama,1187484,43,385,37
+978,Chappie,Action,726058,330,407,37
+979,Crimson Peak,Drama,1155078,220,733,90
+980,A Walk in the Woods,Adventure,804919,70,204,59
+981,Point Break,Action,1248648,444,78,10
+982,Sinister 2,Horror,1236943,237,607,88
+983,The Last Witch Hunter,Action,789776,94,708,30
+984,No Escape,Action,807608,26,851,34
+985,Ricki and the Flash,Comedy,1262626,134,643,81
+986,The Woman in Black 2: Angel of Death,Drama,982111,195,249,76
+987,Run All Night,Action,1219088,168,105,85
+988,Love the Coopers,Comedy,671287,109,714,26
+989,The Lazarus Effect,Horror,657843,233,792,55
+990,Ex Machina,Drama,713260,168,309,15
+991,In the Heart of the Sea,Action,675762,173,871,70
+992,The Gallows,Horror,1232880,390,701,29
+993,Hitman: Agent 47,Action,905603,451,615,83
+994,Project Almanac,Sci-Fi,849140,195,825,20
+995,Black or White,Drama,1228021,143,124,35
+996,Rogue One,Action,1064914,386,816,19
+997,Finding Dory,Adventure,1276225,488,580,10
+998,Captain America: Civil War,Action,659849,426,802,8
+999,The Secret Life of Pets,Adventure,1150322,216,43,22
+1000,The Jungle Book,Adventure,1200171,130,356,40

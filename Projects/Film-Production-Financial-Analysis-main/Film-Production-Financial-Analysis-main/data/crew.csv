@@ -1,0 +1,91 @@
+crew_id,crew_name,crew_skill_level,crew_salary
+1,prodcution designer,Entry Level,59286
+2,prodcution designer,Entry Level,48689
+3,prodcution designer,Entry Level,54302
+4,prodcution designer,Entry Level,55265
+5,prodcution designer,Entry Level,55833
+6,prodcution designer,Mid Level,85541
+7,prodcution designer,Mid Level,94346
+8,prodcution designer,Mid Level,92089
+9,prodcution designer,Mid Level,96749
+10,prodcution designer,Mid Level,82282
+11,prodcution designer,Expert Level,138825
+12,prodcution designer,Expert Level,140262
+13,prodcution designer,Expert Level,132365
+14,prodcution designer,Expert Level,145808
+15,prodcution designer,Expert Level,144699
+16,costume designer,Entry Level,57119
+17,costume designer,Entry Level,57554
+18,costume designer,Entry Level,41290
+19,costume designer,Entry Level,52276
+20,costume designer,Entry Level,58999
+21,costume designer,Mid Level,62802
+22,costume designer,Mid Level,67840
+23,costume designer,Mid Level,73776
+24,costume designer,Mid Level,75592
+25,costume designer,Mid Level,60813
+26,costume designer,Expert Level,89310
+27,costume designer,Expert Level,86616
+28,costume designer,Expert Level,88920
+29,costume designer,Expert Level,98257
+30,costume designer,Expert Level,84141
+31,screen writer,Entry Level,42947
+32,screen writer,Entry Level,31589
+33,screen writer,Entry Level,32002
+34,screen writer,Entry Level,37969
+35,screen writer,Entry Level,34141
+36,screen writer,Mid Level,91336
+37,screen writer,Mid Level,68403
+38,screen writer,Mid Level,71835
+39,screen writer,Mid Level,85780
+40,screen writer,Mid Level,66828
+41,screen writer,Expert Level,114678
+42,screen writer,Expert Level,108524
+43,screen writer,Expert Level,110660
+44,screen writer,Expert Level,101274
+45,screen writer,Expert Level,117282
+46,sound designer,Entry Level,51761
+47,sound designer,Entry Level,46687
+48,sound designer,Entry Level,56328
+49,sound designer,Entry Level,47189
+50,sound designer,Entry Level,58846
+51,sound designer,Mid Level,63401
+52,sound designer,Mid Level,78964
+53,sound designer,Mid Level,67206
+54,sound designer,Mid Level,67694
+55,sound designer,Mid Level,72912
+56,sound designer,Expert Level,87237
+57,sound designer,Expert Level,91952
+58,sound designer,Expert Level,96083
+59,sound designer,Expert Level,89122
+60,sound designer,Expert Level,94787
+61,gaffer,Entry Level,42457
+62,gaffer,Entry Level,40902
+63,gaffer,Entry Level,43335
+64,gaffer,Entry Level,35721
+65,gaffer,Entry Level,48704
+66,gaffer,Mid Level,53193
+67,gaffer,Mid Level,59422
+68,gaffer,Mid Level,63751
+69,gaffer,Mid Level,67491
+70,gaffer,Mid Level,64318
+71,gaffer,Expert Level,74887
+72,gaffer,Expert Level,82541
+73,gaffer,Expert Level,78626
+74,gaffer,Expert Level,72835
+75,gaffer,Expert Level,79667
+76,make up and hair stylist,Entry Level,30607
+77,make up and hair stylist,Entry Level,48962
+78,make up and hair stylist,Entry Level,47796
+79,make up and hair stylist,Entry Level,43711
+80,make up and hair stylist,Entry Level,35230
+81,make up and hair stylist,Mid Level,64011
+82,make up and hair stylist,Mid Level,59671
+83,make up and hair stylist,Mid Level,65464
+84,make up and hair stylist,Mid Level,65272
+85,make up and hair stylist,Mid Level,65510
+86,make up and hair stylist,Expert Level,81024
+87,make up and hair stylist,Expert Level,82527
+88,make up and hair stylist,Expert Level,70561
+89,make up and hair stylist,Expert Level,71354
+90,make up and hair stylist,Expert Level,80959
