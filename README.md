@@ -49,4 +49,3 @@ All files and resources are publicly available in this repository.
 
 ---
 
-🎯 **Thank you for visiting my portfolio repository!** 🚀
