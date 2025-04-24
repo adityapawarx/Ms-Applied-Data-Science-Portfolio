@@ -5,8 +5,8 @@
 **SUID:** 915517725  
 **Email:** aspawar@syr.edu  
 
-📌 **GitHub:** [adityapawarx](https://github.com/adityapawarx)  
-🔗 **LinkedIn:** [Aditya Pawar](https://www.linkedin.com/in/adityapawarx/)  
+**GitHub:** [adityapawarx](https://github.com/adityapawarx)  
+**LinkedIn:** [Aditya Pawar](https://www.linkedin.com/in/adityapawarx/)  
 
 ---
 
@@ -23,16 +23,16 @@
 This repository serves as a **comprehensive portfolio** showcasing my work and achievements during my **Master’s in Applied Data Science** at **Syracuse University**. It includes an overview of my projects, resume, and a milestone draft that ties my academic coursework to practical applications in data science.  
 
 ### **1. Resume**  
-📄 **File:** `Resume.pdf`  
+**File:** `Resume.pdf`  
 - Contains my most up-to-date resume, highlighting my skills, experience, and academic background.  
 
 ### **2. Portfolio Milestone Draft**  
-📄 **File:** `Portfolio_Milestone_Draft.pdf`  
+**File:** `Portfolio_Milestone_Draft.pdf`  
 - A written document summarizing my learning journey, covering the various projects and assignments I have completed during my master’s program.  
 - Details how these projects align with program learning objectives and my career goals.  
 
 ### **3. Projects**  
-📂 **Folder:** `Projects/`  
+**Folder:** `Projects/`  
 This folder contains all the projects I have worked on throughout my master’s program. Each project includes:  
 - **Code:** Scripts and notebooks used for analysis.  
 - **Data:** Relevant datasets (where permissible).  
@@ -45,7 +45,7 @@ This folder contains all the projects I have worked on throughout my master’s 
 
 All files and resources are publicly available in this repository.  
 
-📧 **Contact:** If you have any questions or need further details, feel free to reach out via [aspawar@syr.edu](mailto:aspawar@syr.edu).  
+**Contact:** If you have any questions or need further details, feel free to reach out via [aspawar@syr.edu](mailto:adityapawar1020@gmail.com).  
 
 ---
 
