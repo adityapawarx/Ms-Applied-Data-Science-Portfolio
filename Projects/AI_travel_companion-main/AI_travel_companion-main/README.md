@@ -17,21 +17,21 @@ The AI Travel Companion is a Streamlit-based application that provides essential
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AI_travel_companion-main.git
+   git clone https://github.com/adityapawarx/AI_travel_companion-main.git
 
 ## Install dependencies
    ```bash
 pip install -r requirements.txt
 ```
 
-# Usage
+## Usage
 
 Run the Streamlit app:
    ```bash
 streamlit run streamlit_app.py
 ```
 
-# Project Structure
+## Project Structure
 
 AI_travel_companion-main/
 ├── pdfs/                   # Travel guides/documentation 
@@ -50,16 +50,8 @@ AI_travel_companion-main/
 
 └── requirements.txt       # Dependency list
 
-# Contributing
+## Contributing
 
 Contributions are welcome. Follow these steps:
 
-Fork the repository
 
-Create a feature branch (git checkout -b feature/your-feature)
-
-Commit changes (git commit -m 'Add your feature')
-
-Push to the branch (git push origin feature/your-feature)
-
-Open a Pull Request
