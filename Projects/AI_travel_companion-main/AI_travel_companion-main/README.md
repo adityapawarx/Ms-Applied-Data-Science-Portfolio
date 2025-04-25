@@ -1,19 +1,65 @@
-# 🎈 Blank app template
+# AI Travel Companion
 
-A simple Streamlit app template for you to modify!
+**A smart travel assistant designed to simplify your journey with real-time tools and resources**
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+---
 
-### How to run it on your own machine
+## Overview
+The AI Travel Companion is a Streamlit-based application that provides essential travel tools in one place. It integrates multiple functionalities to enhance travel planning and execution.
 
-1. Install the requirements
+## Features
+- **Currency Conversion**: Real-time exchange rates (via `Currency.py`)
+- **Weather Insights**: Location-based weather forecasts (via `location_weather.py`)
+- **Travel Chat Assistant**: AI-powered chat support (via `Chat_baipy`)
+- **Documentation Hub**: Access travel guides/resources (in `pdfs` folder)
+- **Streamlit Interface**: User-friendly web app (`streamlit_app.py`)
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/AI_travel_companion-main.git
 
-2. Run the app
+## Install dependencies
+   ```bash
+pip install -r requirements.txt
+```
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+# Usage
+
+Run the Streamlit app:
+   ```bash
+streamlit run streamlit_app.py
+```
+
+# Project Structure
+
+AI_travel_companion-main/
+├── pdfs/                   # Travel guides/documentation 
+
+├── Chat_botpy             # AI chat module
+
+├── Currency.py            # Currency converter
+
+├── location_weather.py    # Weather data fetcher
+
+├── streamlit_app.py       # Main application interface
+
+├── LICENSE
+
+├── README.md
+
+└── requirements.txt       # Dependency list
+
+# Contributing
+
+Contributions are welcome. Follow these steps:
+
+Fork the repository
+
+Create a feature branch (git checkout -b feature/your-feature)
+
+Commit changes (git commit -m 'Add your feature')
+
+Push to the branch (git push origin feature/your-feature)
+
+Open a Pull Request
