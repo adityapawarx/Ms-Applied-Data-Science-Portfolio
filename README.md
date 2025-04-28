@@ -16,8 +16,8 @@
 3. [Portfolio Milestone Draft](#portfolio-milestone-draft) - PDF document explaining projects completed throughout the master’s program.  
 4. [Projects](#projects) - A folder containing projects, including code, datasets, presentations, and other relevant materials.
 5. [Portfolio Milestone_Final](#portfolio-milestone-draft) - PDF document explaining projects completed throughout the master’s program.
-6. [Video Link]
-7. [PPT]
+6. [Video Link](#video-link)
+7. [PPT](#ppt)
 ---
 
 ## **Repository Overview**  
