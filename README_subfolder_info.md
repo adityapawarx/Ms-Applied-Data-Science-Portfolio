@@ -31,7 +31,12 @@ This repository serves as a **comprehensive portfolio** showcasing my work and a
 - A written document summarizing my learning journey, covering the various projects and assignments I have completed during my master’s program.  
 - Details how these projects align with program learning objectives and my career goals.  
 
-### **3. Projects**  
+### **3. Final Portfolio Milestone Draft**  
+**File:** `Portfolio_Milestone_Final.pdf`  
+- A Final Draft  
+
+
+### **4. Projects**  
 **Folder:** `Projects/`  
 This folder contains all the projects I have worked on throughout my master’s program. Each project includes:  
 - **Code:** Scripts and notebooks used for analysis.  
