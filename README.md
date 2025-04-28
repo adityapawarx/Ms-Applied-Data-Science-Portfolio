@@ -46,7 +46,7 @@ This folder contains all the projects I have worked on throughout my master’s 
 **File:** `Portfolio_Milestone_Final.pdf`  
 - A Final Draft  
 
-### **6. Video Link**
+### **6. Video  Link**
 
 ### **7. PPT**
 ---
